@@ -1,0 +1,8 @@
+{
+    "watch": ["src", "public", "config"],     
+    "ignore": ["node_modules", ".git", "logs"],
+    "restartable": "rs",                       
+    "signal": "SIGUSR2",                       
+    "verbose": true                         
+  }
+  

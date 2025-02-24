@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>krish-mon 🚀</title>
-  <style>
+<!--   <style>
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
@@ -58,7 +58,7 @@
       padding: 2px 5px;
       border-radius: 3px;
     }
-  </style>
+  </style> -->
 </head>
 <body>
 
